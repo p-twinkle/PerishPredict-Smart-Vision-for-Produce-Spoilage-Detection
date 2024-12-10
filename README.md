@@ -32,9 +32,10 @@ Our project utilizes a dataset of approximately 30,000 images, including a wide 
 We plan to explore multiple approaches to detect subtle, early signs of spoilage:
 
 1. **Deep CNNs**: Experiment with ResNet50, VGG-16, Inception, and EfficientNet
-2. **Support Vector Machine (SVM)**: As an alternative to CNNs
-3. **Open-Source VLMs and Multimodal LLMs**: Utilize APIs for vision-language models
-4. **Fine-Tuning Open-Source VLMs**: Experiment with smaller parameter models like BLIP-2 and Llava-Next[1]
+2. **Contrastive Learning**: Experiment with contrastive learning technique for a supervised problem
+3. **Support Vector Machine (SVM)**: As an alternative to CNNs
+4. **Open-Source VLMs and Multimodal LLMs**: Utilize APIs for vision-language models
+5. **Fine-Tuning Open-Source VLMs**: Experiment with smaller parameter models like BLIP-2 and Llava-Next[1]
 
 ## Applications
 
