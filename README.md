@@ -2,7 +2,7 @@
 
 ## Team Members
 
-- Advaith Shankar (advaithshankar)
+- Advaith Shankar ([advaithshankar](https://github.com/advaithshankar))
 - Andrew White  (andrewwhot)
 - Sarah Stephens (sarahgstephens)
 - Twinkle Panda (p-twinkle)
