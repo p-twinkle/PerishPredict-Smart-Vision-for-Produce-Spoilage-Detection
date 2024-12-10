@@ -1,12 +1,15 @@
 # PerishPredict-Smart-Vision-for-Produce-Spoilage-Detection
 
+## BLOG
+https://medium.com/@sarahgstephens/perishpredict-smart-vision-for-produce-spoilage-detection-2e34e5af344e
+
 ## Team Members
 
 - Advaith Shankar ([advaithshankar](https://github.com/advaithshankar))
-- Andrew White  (andrewwhot)
-- Sarah Stephens (sarahgstephens)
-- Twinkle Panda (p-twinkle)
-- Varsha Manju Jayakumar (mj-varsha)
+- Andrew White  ([andrewwhot](https://github.com/andrewwhot))
+- Sarah Stephens ([sarahgstephens](https://github.com/sarahgstephens))
+- Twinkle Panda ([p-twinkle](https://github.com/p-twinkle))
+- Varsha Manju Jayakumar ([mj-varsha](https://github.com/mj-varsha))
 
 ## Problem Statement
 
