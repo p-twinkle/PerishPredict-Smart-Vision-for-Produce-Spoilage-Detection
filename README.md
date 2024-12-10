@@ -1,6 +1,4 @@
 # PerishPredict-Smart-Vision-for-Produce-Spoilage-Detection
-
-## BLOG
 https://medium.com/@sarahgstephens/perishpredict-smart-vision-for-produce-spoilage-detection-2e34e5af344e
 
 ## Team Members
@@ -45,21 +43,7 @@ We plan to explore multiple approaches to detect subtle, early signs of spoilage
 3. **Smart Refrigeration Systems**: Alerting users about nearing spoilage
 4. **Disease Detection in Crops**: Early indicator of potential disease outbreaks[1]
 
-
-
-## References
-
-1. Chin, A. (2022). How I Made AI to Detect Rotten Produce Using a CNN. Medium.
-2. Habib. (2023). Binary Image Classification Using ResNet50. Medium.
-3. GeeksforGeeks. (2021). Image Classification Using Support Vector Machine (SVM) in Python.
-4. Luo, X., et al. (2024). Lift-On-Retrieval: Recycling Intermediate Outputs for Efficient Diffusion Inference. arXiv.
-5. Olafenwa, J. (2021). Boost Your Image Classification Model with Pretrained VGG-16. Medium.
-6. OpenCompass. Open-VLM Leaderboard. Hugging Face.
-7. Qin, Y., et al. (2023). Understanding Diffusion Models: A Unified Perspective. arXiv.
-8. TechLabs Hamburg. (2022). FruitShow: Detecting Whether a Fruit Is Still Edible or Rotten. Medium.
-9. YoanFanClub. (2023). Prime Number Conspiracy, Explained. YouTube[1].
-
-## Appendix: Dataset Details
+## Dataset Details
 
 | Fresh / Spoilt | Produce      | No. of Images |
 |----------------|--------------|---------------|
@@ -84,3 +68,20 @@ We plan to explore multiple approaches to detect subtle, early signs of spoilage
 Dataset Sources:
 1. [Reddy, S. (2021). Fruits Fresh and Rotten for Classification. Kaggle.](https://www.kaggle.com/datasets/sriramr/fruits-fresh-and-rotten-for-classification)
 2. [Swoyam. (2023). Fresh and Stale Classification. Kaggle[1].](https://www.kaggle.com/datasets/swoyam2609/fresh-and-stale-classification)
+
+## References
+
+1. Chin, A. (2022). How I Made AI to Detect Rotten Produce Using a CNN. Medium.
+2. Habib. (2023). Binary Image Classification Using ResNet50. Medium.
+3. GeeksforGeeks. (2021). Image Classification Using Support Vector Machine (SVM) in Python.
+4. Luo, X., et al. (2024). Lift-On-Retrieval: Recycling Intermediate Outputs for Efficient Diffusion Inference. arXiv.
+5. Olafenwa, J. (2021). Boost Your Image Classification Model with Pretrained VGG-16. Medium.
+6. OpenCompass. Open-VLM Leaderboard. Hugging Face.
+7. Qin, Y., et al. (2023). Understanding Diffusion Models: A Unified Perspective. arXiv.
+8. TechLabs Hamburg. (2022). FruitShow: Detecting Whether a Fruit Is Still Edible or Rotten. Medium.
+9. YoanFanClub. (2023). Prime Number Conspiracy, Explained. YouTube[1].
+10. https://arxiv.org/html/2410.18200v1
+11. https://lilianweng.github.io/posts/2021-05-31-contrastive/
+12. https://www.yadavsaurabh.com/self-supervised-contrastive-learning-fundamentals/
+13. https://learnopencv.com/contrastive-learning-simclr-and-byol-with-code-example/
+14. https://blog.roboflow.com/contrastive-learning-machine-learning/
