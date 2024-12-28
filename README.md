@@ -42,7 +42,7 @@ We plan to explore multiple approaches to detect subtle, early signs of spoilage
 1. **Quality Control in Food Industry**: Automated systems for sorting fresh produce
 2. **Reducing Food Waste**: Early detection of deteriorating produce
 3. **Smart Refrigeration Systems**: Alerting users about nearing spoilage
-4. **Disease Detection in Crops**: Early indicator of potential disease outbreaks[1]
+4. **Disease Detection in Crops**: Early indicator of potential disease outbreaks
 
 ## Dataset Details
 
