@@ -1,4 +1,4 @@
-# PerishPredict-Smart-Vision-for-Produce-Spoilage-Detection
+# PerishPredict Smart Vision for Produce Spoilage Detection
 https://medium.com/@sarahgstephens/perishpredict-smart-vision-for-produce-spoilage-detection-2e34e5af344e
 
 ## Team Members
