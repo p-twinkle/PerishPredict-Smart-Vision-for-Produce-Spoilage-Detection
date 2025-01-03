@@ -11,11 +11,11 @@ https://medium.com/@sarahgstephens/perishpredict-smart-vision-for-produce-spoila
 
 ## Problem Statement
 
-Grocery retail faces significant challenges in managing food waste, particularly with perishable items like fresh produce. This project aims to address this issue by leveraging technology to identify spoiled or damaged produce before it reaches store shelves. By utilizing a pre-trained foundation model with image recognition capabilities, we can assess the quality of perishable products, ensuring only the best produce is offered to consumers, thereby enhancing profitability and customer experience[1].
+Grocery retail faces significant challenges in managing food waste, particularly with perishable items like fresh produce. This project aims to address this issue by leveraging technology to identify spoiled or damaged produce before it reaches store shelves. By utilizing a pre-trained foundation model with image recognition capabilities, we can assess the quality of perishable products, ensuring only the best produce is offered to consumers, thereby enhancing profitability and customer experience.
 
 ## Dataset
 
-Our project utilizes a dataset of approximately 30,000 images, including a wide variety of fruits and vegetables in both fresh and spoiled conditions. The dataset, sourced from Kaggle, contains labeled images for balanced and diverse training and evaluation[1].
+Our project utilizes a dataset of approximately 30,000 images, including a wide variety of fruits and vegetables in both fresh and spoiled conditions. The dataset, sourced from Kaggle, contains labeled images for balanced and diverse training and evaluation.
 
 ### Key Features:
 - **Size**: ~30,000 images
@@ -35,7 +35,7 @@ We plan to explore multiple approaches to detect subtle, early signs of spoilage
 2. **Contrastive Learning**: Experiment with contrastive learning technique for a supervised problem
 3. **Support Vector Machine (SVM)**: As an alternative to CNNs
 4. **Open-Source VLMs and Multimodal LLMs**: Utilize APIs for vision-language models
-5. **Fine-Tuning Open-Source VLMs**: Experiment with smaller parameter models like BLIP-2 and Llava-Next[1]
+5. **Fine-Tuning Open-Source VLMs**: Experiment with smaller parameter models like BLIP-2 and Llava-Next
 
 ## Applications
 
@@ -80,7 +80,7 @@ Dataset Sources:
 6. OpenCompass. Open-VLM Leaderboard. Hugging Face.
 7. Qin, Y., et al. (2023). Understanding Diffusion Models: A Unified Perspective. arXiv.
 8. TechLabs Hamburg. (2022). FruitShow: Detecting Whether a Fruit Is Still Edible or Rotten. Medium.
-9. YoanFanClub. (2023). Prime Number Conspiracy, Explained. YouTube[1].
+9. YoanFanClub. (2023). Prime Number Conspiracy, Explained. YouTube.
 10. https://arxiv.org/html/2410.18200v1
 11. https://lilianweng.github.io/posts/2021-05-31-contrastive/
 12. https://www.yadavsaurabh.com/self-supervised-contrastive-learning-fundamentals/
